@@ -59,7 +59,9 @@ The next branch you'll be working on will be refactoring. Here, you can modify y
 Finally, once you are finished with your work, you can merge both branches to the master branch, and push it back up to the remote repository.
 
 ### Files used
-Include the files used
+washington.csv
+new_york_city.csv
+chicago.csv
 
 
 
