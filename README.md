@@ -63,5 +63,14 @@ washington.csv
 new_york_city.csv
 chicago.csv
 
+#stage my changes
+#Commit my work with a descriptive message
+#Push my commit to my remote repository branch
+
+
+
+
+
+
 
 
