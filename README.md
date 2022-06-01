@@ -24,7 +24,11 @@ Explore Bikeshare Data
 Bike Share Data
 Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. This allows people to borrow a bike from point A and return it at point B, though they can also return it to the same location if they'd like to just go for a ride. Regardless, each bike can serve several users per day.
 In this project, you will use data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
-Explore_bikeshare_data.html
+Project2.2.JPG![image](https://user-images.githubusercontent.com/106601210/171318068-67cf1d07-c18e-40f2-bef6-a6dfec477727.png)
+Project2.3.JPG![image](https://user-images.githubusercontent.com/106601210/171318117-271b98a0-3e59-4cb0-8cab-713279f64b10.png)
+Project2.4.JPG![image](https://user-images.githubusercontent.com/106601210/171318132-0856ee6f-3fc6-417e-bac9-13c1b69fc2d0.png)
+Project2.5.JPG![image](https://user-images.githubusercontent.com/106601210/171318151-b929fc7b-3f68-4f5b-873f-854268c90eb3.png)
+
 
 Project 3:
 Project Overview
