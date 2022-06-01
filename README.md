@@ -44,7 +44,9 @@ Finally, once you are finished with your work, you can merge both branches to th
 
 ### Files used
 washington.csv
+
 new_york_city.csv
+
 chicago.csv
 
 
